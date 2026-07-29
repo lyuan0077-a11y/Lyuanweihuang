@@ -1,0 +1,24 @@
+{
+  "name": "工作台 · 创作者中心",
+  "short_name": "工作台",
+  "description": "个人内容创作工作台：每日计划、选题、灵感、复盘、日程、时间追踪",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef1f6",
+  "theme_color": "#4f6dff",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
